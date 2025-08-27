@@ -1,0 +1,253 @@
+.container{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://midias-blog-mkt.s3.amazonaws.com/uploads/2021/01/Programa-5S.jpg);
+    background-position: top;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+body{
+    margin: 0px;
+    background-color: #bde9e2;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin: 8px;
+}
+
+main{
+    margin: 8px;
+}
+
+footer{
+    background-color: black;
+    color: rgb(168, 168, 168);
+    font-size: 18px;
+    text-decoration: wavy;
+    width: 100%;
+    margin-top: 40px;
+    padding: 10px 60px 10px 60px;
+    text-align: center;
+}
+
+section{
+    background-color: #4d6877;
+    border-radius: 15px;
+}
+
+.cartao{
+    box-shadow: 0px 8px 8px rgb(0, 0, 0, 0.4);
+}
+
+h2{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin: 0px;
+    background-color: rgba(97, 99, 138, 0.568);
+}
+
+.direita{
+    border-top-right-radius: 1000px;
+}
+
+.esquerda{
+    border-top-left-radius: 1000px;
+}
+
+#logo{
+    padding:60px;
+    font-size: 45px;
+    text-align: left;
+    text-align: center;
+    margin: 8px;
+}
+
+.conteudo{
+    font-size: 20px;
+    color: black;
+}
+
+#mente{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+}
+
+.text{
+    text-align: justify;
+    font-size: 20px;
+    text-decoration: double;
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+}
+
+#sec4{
+    padding-bottom: 73px;
+}
+
+/* Hearer navegation */
+    .home{
+        padding: 20px;
+        font-size: 35px;
+        display: flex;
+        justify-content:space-evenly;
+    }
+
+    .link-web{
+        text-decoration: none;
+        color: white;
+        font-style:inherit;
+    }
+    
+/* Fim Header navegation */
+
+h1{
+    margin: 0;
+}
+/* Primeiro texto 5S */
+    
+    #intro1{
+        margin-top: 1px;
+        margin-right: 0px;
+        border-top: black 40px;
+        border-top-style:solid;
+        padding-top: 30px;
+        padding-bottom: 147px;
+        text-align: center;
+    }
+
+    #img1{
+        width: 626px;
+        height: 358px;
+        float: left;
+        border-bottom-left-radius: 15px;
+}
+
+/* Fim Primeiro texto 5S */
+
+/* Estilização da Imagem 2 com texto*/
+    .parte2{
+        display:inline;
+        align-items: center;
+    }
+
+    .img2{
+        float: right;
+        margin: 0px 0px 0px 20px; 
+        border-bottom-right-radius: 15px;
+        height: 410px;      
+    }
+
+    #intro2{
+        padding: 25px 15px 15px 15px;
+        text-align: center;
+        text-decoration: dotted;
+        border-top: black 40px;
+        border-top-style:solid;
+        margin-top: 0px;
+    }
+/* Fim Estilização da Imagem 2 com texto*/
+
+/* Estilização da Imagem 3 com texto*/
+
+    #disp{
+        padding-bottom: 0px;
+    }
+
+    #img3{
+        float: left;
+        width: 626px;
+        height: 550;
+        margin-right: 30px;
+    }
+
+    #intro3{
+        padding-top: 17px;
+        padding-right: 20px;
+        text-decoration: dotted;
+        border-top: black 40px;
+        border-top-style:solid;
+    }
+
+/* Fim Estilização da Imagem 3 com texto*/
+
+/* Estilização da 4ª parte */
+    #title4{
+        margin-top: 0%;
+    }
+
+    #img4{
+        float: right;
+        width: 626px;
+        height: 429px;
+        border-bottom-right-radius:15px;
+    }
+
+    #intro4{
+        padding: 30px 30px 15px 30px;
+        text-decoration: dotted;
+        border-top: black 40px;
+        border-top-style:solid;
+        text-align: center;
+    }
+
+    .funciona{
+        display: flex;
+    }
+
+    .teste4{
+        width: 40%;
+        height: 60% ;
+    }
+
+    #lista4{
+        padding-bottom: 58px;
+        width: 580px;
+    }
+
+
+/* Fim Estilização da 4ª parte */
+
+/* Estilização da 4ª parte */
+    
+    .parte5{
+        display: inline;
+        align-items: center;
+    }
+
+    #pohavei{
+        display: inline-block;
+    }
+
+    #img5{
+        float: left;
+        width: 600px;
+        height: 450px;
+        border-bottom-left-radius: 15px;
+    }
+
+    #intro5{
+        padding: 30px 30px 15px 620px;
+        margin-top: 0px;
+        margin-bottom: 40px;
+        text-decoration: dotted;
+        border-top: black 40px;
+        border-top-style:solid;
+        text-align: center;
+    }
+
+    #lista5{
+        margin-left: 620px;
+    }
+
+
+/* Fim Estilização da 4ª parte */
+
+
